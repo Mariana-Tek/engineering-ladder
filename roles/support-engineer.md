@@ -9,6 +9,7 @@ Support Engineer
 * Take end-to-end ownership of questions and issues, including initial troubleshooting, root cause analysis and resolution.
 * Push creative thinking beyond the boundaries of the product process to come up with internal process improvements and new ways to delight customers.
 * Collect identify, document, and fix software defects.
+* Respond to realtime incidents affecting the ability of our customers to run their business.
 
 ### Responsibilities
 
