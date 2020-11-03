@@ -18,3 +18,8 @@ The DRI is a temporary role which designates the person responsible for the full
 6. Ensure the successful delivery of the product initiative. This could include leading the way on identifying roadblocks, updating the plan when a shift in approach is needed, or identifying work that was previously unaccounted for. Communication with product, design, or other teams is very important here.
 
 **NOTE:** The DRI is not required or expected to perform all tasks or make all technical decisions alone but should ensure that these things happen. The DRI will collaborate with their team, delegate tasks as needed, and serve as a facilitator throughout the engineering lifecycle of the product initiative.
+
+## Resources
+- Slack Channel: [#dev-mt-dri](https://tsg-boutique.slack.com/archives/C019KUW4ZUH)
+- [DRI MEP](https://github.com/Mariana-Tek/meps/pull/26)
+- [DRI Checklists](https://docs.google.com/spreadsheets/d/1pZDg1mDgGMM8crAaqhK-nDFG0OQaKY5QmAT9w44c0xg/edit?usp=sharing)
