@@ -22,14 +22,14 @@ Staff Engineer
 
 ### Is expected to
 
-* Be accountable for design and architecture direction by providing feedback and mentoring other engineers within their business unit and working with principal engineers and architects
-* Plan, sequence, forecast, and track projects effectively across the business unit
-* Work with senior managers & directors to ensure engineering effort is focussed on the most impactful areas for their business unit
-* Monitor technical performance of engineers in a business unit, and partner with engineering managers and leads on mentoring and growth
+* Be accountable for design and architecture direction by providing feedback and mentoring other engineers within their brand and working with principal engineers and architects
+* Plan, sequence, forecast, and track projects effectively across the brand
+* Work with senior managers & directors to ensure engineering effort is focussed on the most impactful areas for their brand
+* Monitor technical performance of engineers in a brand, and partner with engineering managers and leads on mentoring and growth
 * Develop and constantly refine technical, leadership, and team fit assessments (coding exercises, interview questions, etc) for interviews across the Engineering organization
-* Lead code/design/architecture reviews across teams and mentor & coach engineers to ensure work follows best practices & standards. Create and evolve business unit wide practices and share with the rest of the organization.
-* Ensure that all business unit decisions are in service of their customers
-* Help business unit teammates communicate their design and architecture decisions throughout the company
+* Lead code/design/architecture reviews across teams and mentor & coach engineers to ensure work follows best practices & standards. Create and evolve brand wide practices and share with the rest of the organization.
+* Ensure that all brand decisions are in service of their customers
+* Help brand teammates communicate their design and architecture decisions throughout the company
 * Acts as a mentor to other senior and staff engineers who are developing their own mentees
 * Provide task definition and design/architecture direction for other engineers
 * Demonstrate expert knowledge of their discipline
