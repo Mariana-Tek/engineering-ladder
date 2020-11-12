@@ -5,7 +5,7 @@ Staff Engineer
 
 ### Should have
 
-* The ability to take a business unit’s strategic initiative, define projects and work with teams to assign ownership and priority to those projects.
+* The ability to take a brand’s strategic initiative, define projects and work with teams to assign ownership and priority to those projects.
 * The respect and trust of leadership within the company as a strong technical resource for collaborative decisions
 * The ability to work with leadership during an emergency situation to identify and communicate impact and progress
 * A reputation for delivering high quality projects with cross-team impact.
