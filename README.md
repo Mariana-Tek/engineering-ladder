@@ -17,6 +17,5 @@ This repo contains a list of Engineering titles, roles, and associated responsib
 ### Roles
 
 * [Technical Lead](roles/technical_lead.md)
-* [Product SRE](roles/product_sre.md)
 * [Directly Responsible Individual (DRI)](roles/directly_responsible_individual.md)
 
