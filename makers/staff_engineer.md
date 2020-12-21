@@ -1,47 +1,80 @@
 Staff Engineer
 ==============
 
-*Same as Senior Engineer, but also...*
+<!-- TODO: Add summary -->
 
-### Should have
+## Qualifications
 
-* The ability to take a brand’s strategic initiative, define projects and work with teams to assign ownership and priority to those projects.
-* The respect and trust of leadership within the company as a strong technical resource for collaborative decisions
-* The ability to work with leadership during an emergency situation to identify and communicate impact and progress
-* A reputation for delivering high quality projects with cross-team impact.
-* A reputation with engineers within the company as a resource for technical, communications and leadership mentorship
-* Demonstrated ability and eagerness to support, advocate, and sponsor for others to step up to take leadership of a project or team
-* The ability to take a nebulous project, talk to the right people, architect a solution, split it up into tasks, and ultimately get it done quickly and efficiently
-* The respect and trust of other engineers within the company as strong technical leaders and mentors for others
-* The ability to diagnose, fix, and coordinate deployment of bug fixes (and do this extremely quickly in emergency situations)
-* A reputation for submitting maintainable code that is well tested for review and QA
-* A reputation for launching quality, turbulence-free code and projects
-* The ability to balance multiple goals across tech/product/strategy/other teams and concerns
-* The ability to communicate effectively with non-engineers of varying levels at the company
-* Stepped up to take leadership of a project or team when needed
+- Successfully performed the role of Senior Engineer at Mariana Tek or equivalent role elsewhere.
+- Highly knowledgeable about our product, codebase, and tech stack.
+- Consistently delivers high-quality projects with cross-team impact.
+- Steps up to take leadership of a project or team when needed.
+- Respected by engineers across the company as a resource for technical knowledge, leadership, and mentoring.
+- Trusted by company leaders to contribute strong technical guidance to collaborative decisions.
+- Demonstrated ability to take a nebulous project, perform additional research, architect a solution, break the work into subtasks, and coordinate delivery quickly and efficiently among multiple engineers.
+- Demonstrated ability to diagnose, fix, and coordinate deployment of bug fixes -- and to do this extremely quickly in emergency situations.
 
-### Is expected to
+## Responsibilities & Expectations
 
-* Be accountable for design and architecture direction by providing feedback and mentoring other engineers within their brand and working with principal engineers and architects
-* Plan, sequence, forecast, and track projects effectively across the brand
-* Work with senior managers & directors to ensure engineering effort is focussed on the most impactful areas for their brand
-* Monitor technical performance of engineers in a brand, and partner with engineering managers and leads on mentoring and growth
-* Develop and constantly refine technical, leadership, and team fit assessments (coding exercises, interview questions, etc) for interviews across the Engineering organization
-* Lead code/design/architecture reviews across teams and mentor & coach engineers to ensure work follows best practices & standards. Create and evolve brand wide practices and share with the rest of the organization.
-* Ensure that all brand decisions are in service of their customers
-* Help brand teammates communicate their design and architecture decisions throughout the company
-* Acts as a mentor to other senior and staff engineers who are developing their own mentees
-* Provide task definition and design/architecture direction for other engineers
-* Demonstrate expert knowledge of their discipline
-* Remain flexible & put customer needs first 
-* Accurately estimate time to complete projects given structure of team and deliver on those estimates
-* Allocate people within a team to maximise output of useful and team-goal-focused engineering work
-* Monitor performance of engineers on team, and partner with engineering managers on mentoring and growth
-* Look for ways to reduce distractions, interruptions, and unplanned work for themselves and others 
-* Challenge their team to demonstrate greater sense of urgency
-* Model bringing solutions to problems (not surfacing problems alone) and teach others on their team how to do the same
-* Be active in the technology community, positively contribute to Mariana Tek’s reputation, and find great candidates to grow the Mariana Tek team
-* Develop and constantly refine technical and team fit assessments (coding exercises, interview questions, etc) for interviews
-* Ensure code/design/architecture reviews happen on teams and that work follows established best practices and standards
-* Coordinate evaluation of tools and frameworks for the engineering team
-* Take responsibility for actions of their team, good and bad
+<!-- TODO: Add summary -->
+
+### Technical Skills
+
+- Take the lead in designing and implementing solutions to complex, unscoped problems. 
+- Design and execute large projects based on strategic business objectives.
+- Work to improve the performance, reliability, and scalability of our applications.
+- Provide high-level technical guidance to the team, anticipating and planning for technical problems.
+- Accurately estimate delivery timelines for shared work, and deliver on those estimates.
+- Facilitate code reviews to ensure the team's work adheres to established standards.
+- Identify and advocate for addressing areas of critical need based on the company's growth plans.
+- Evaluate new technologies and tools for the engineering team to adopt.
+
+Example behaviors:
+- Worked with the PM to break a large feature initiative into smaller tickets before grooming
+- Planned and executed a major version upgrade of an important package
+- Successfully led the team-wide adoption of a new linting tool
+- Flagged a feature that posed a performance risk for a large new client and outlined a plan to refactor it
+
+---
+### Business Knowledge
+
+- Strive to understand all technologies used by your team.
+- Consider the technical direction of the product and the engineering team when designing technical solutions.
+
+Example behaviors:
+- TBA
+
+---
+### Communication
+
+- Coordinate cross-team work to ensure new features launch smoothly and meet user needs.
+- Solicit feedback on technical proposals from engineering leaders, product owners, and other stakeholders.
+- Proactively communicate architectural decisions to colleagues in technical & non-technical roles.
+- Facilitate discussions among teams to solve problems and resolve technical debates.
+- Guide groups with disparate interests to consensus; once a decision is made, clearly communicate it and drive follow-through.
+- Codify and share best practices across the engineering team.
+
+Example behaviors:
+- Consistently runs meetings with clear agendas and outcomes
+- Asked the CAPPS team for input on API work that will affect them
+- Writes timely and thoughtful answers to questions posted in Slack
+- Discussed a potential architectural decision with the CTO before committing to it
+
+---
+### Leadership & Teamwork
+
+- Take responsibility for the actions of your team, both good and bad.
+- Monitor project outcomes to learn from mistakes and replicate successes.
+- Look for ways to reduce distractions, interruptions, and unplanned work for yourself and your team.
+- Monitor the performance of engineers on your team, and partner with other managers & leads to help them improve.
+- Serve as a mentor to other senior engineers.
+- Identify knowledge gaps within the team and lead trainings to address them.
+- Advocate for others to step into leadership roles, and support them when they do.
+- Develop and regularly refine technical assessments (coding exercises, interview questions, etc.) for potential hires.
+- Contribute positively to the company's public reputation.
+
+Example behaviors:
+- Led a workshop on Git after noticing that some engineers weren't using it to its fullest
+- Got coffee with a potential hire to answer questions about the team
+- Identified a manual process that was slowing down multiple teams and automated it
+- Noticed that another engineer was succeeding in informal leadership roles and spoke to their manager about promoting them
