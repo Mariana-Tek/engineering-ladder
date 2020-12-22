@@ -1,8 +1,6 @@
 Staff Engineer
 ==============
 
-<!-- TODO: Add summary -->
-
 ## Qualifications
 
 - Successfully performed the role of Senior Engineer at Mariana Tek or equivalent role elsewhere.
@@ -15,8 +13,6 @@ Staff Engineer
 - Demonstrated ability to diagnose, fix, and coordinate deployment of bug fixes -- and to do this extremely quickly in emergency situations.
 
 ## Responsibilities & Expectations
-
-<!-- TODO: Add summary -->
 
 ### Technical Skills
 
