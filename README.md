@@ -1,6 +1,7 @@
-## Mariana Tek Engineering Ladder
+Mariana Tek Engineering Ladder
+==============================
 
-The Mariana Tek Engineering Ladder defines the responsibilities and expectations of people working at various levels within the engineering team. It exists as a guide for engineers pursuing excellence and advancement, as well as a framework for managers to evaluate performance and identify candidates for promotion.
+The Mariana Tek Engineering Ladder defines the responsibilities and expectations of people working at various levels within the engineering team. It exists as a rubric for hiring, a guide for engineers seeking excellence and advancement, and a framework for managers to evaluate performance and identify candidates for promotion.
 
 Like many engineering teams, we outline two paths for career advancement: the management track and the technical track. Engineers pursuing the management track ("Managers") are interested in managing people and teams. Engineers pursuing the technical track ("Makers") are interested in honing their technical expertise and shaping the technical direction of the company.
 
@@ -8,9 +9,11 @@ Framed another way by the engineering team at [Chartbeat](https://engineering.ch
 
 > “Do I want to build bigger and better systems, or do I want to manage bigger and better teams?”
 
-Every engineer starts their career as a maker. As you work your way from Engineer I to Engineer II to Senior Engineer, you are primarily focused on expanding your technical knowledge and mastering the skills required of a professional software engineer. When you're ready to move beyond Senior Engineer, you have the opportunity to specialize.
+Every engineer starts their career as a maker. As you work your way from Engineer I to Engineer II to Senior Engineer, you are primarily focused on expanding your technical knowledge and mastering the skills required of a professional software engineer. When you're ready to move beyond Senior Engineer, you have the opportunity to switch to the management track.
 
 Neither track is superior to the other, and engineers will often switch between them as they move through their careers.
+
+---
 ### Makers
 
 * [Engineer I](makers/engineer_i.md)
@@ -19,17 +22,21 @@ Neither track is superior to the other, and engineers will often switch between 
 * [Staff Engineer](makers/staff_engineer.md)
 * [Principal Engineer](makers/principal_engineer.md)
 * [CTO](makers/cto.md)
+
+---
 ### Managers
 
 * [Engineering Manager](managers/engineering_manager.md)
 * [Director, Engineering](managers/director_engineering.md)
 * [VP, Engineering](managers/vp_engineering.md)
 
+---
 ### Roles
 
 * [Technical Lead](roles/technical_lead.md)
 * [Directly Responsible Individual (DRI)](roles/directly_responsible_individual.md)
 
+---
 ### Credit Where Credit Is Due
 
 Our engineering ladder is heavily inspired by (and lightly plagiarized from) ladders shared by the following companies:
