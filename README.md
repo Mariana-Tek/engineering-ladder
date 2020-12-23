@@ -6,6 +6,7 @@
 - [Makers](#makers)
 - [Managers](#managers)
 - [Roles](#roles)
+- [Glossary](#glossary)
 - [Credit & Inspiration](#credit-where-credit-is-due)
 
 ## Introduction
@@ -41,6 +42,16 @@ Neither track is superior to the other, and engineers will often switch between 
 
 * [Technical Lead](roles/technical_lead.md)
 * [Directly Responsible Individual (DRI)](roles/directly_responsible_individual.md)
+
+## Glossary
+
+| Term                                                    | Definition  |
+| ------------------------------------------------------- | ----------- |
+| <a name="technical-skills"></a>Technical Skills         | TBA         |
+| <a name="business-knowledge"></a>Business Knowledge     | TBA         |
+| <a name="communication"></a>Communication               | TBA         |
+| <a name="leadership-teamwork"></a>Leadership & Teamwork | TBA         |
+| <a name="example-behaviors"></a>Example Behaviors       | These are **not requirements**. The "Example behaviors" section is meant to elucidate the high-level expectations outlined in the section above. It is **not a checklist** that you must complete to move up the ladder.  Think of them like the code snippets included in software documentation, which illustrate how a particular package or method or syntax *can* be used in different scenarios, not how it *must* be used. |
 
 ## Credit & Inspiration
 
