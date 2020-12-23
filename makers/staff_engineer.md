@@ -35,7 +35,7 @@ Staff Engineer
 ### [Business Knowledge](/README.md#business-knowledge)
 
 - Strive to understand all technologies used by your team.
-- Consider the technical direction of the product and the engineering team when designing technical solutions.
+- Work with the product team to understand how engineering efforts can support big-picture product goals.
 
 [Example Behaviors](/README.md#example-behaviors):
 - TBA
@@ -45,7 +45,7 @@ Staff Engineer
 
 - Coordinate cross-team work to ensure new features launch smoothly and meet user needs.
 - Solicit feedback on technical proposals from engineering leaders, product owners, and other stakeholders.
-- Proactively communicate architectural decisions to colleagues in technical & non-technical roles.
+- Communicate architectural decisions to colleagues in technical & non-technical roles.
 - Facilitate discussions among teams to solve problems and resolve technical debates.
 - Guide groups with disparate interests to consensus; once a decision is made, clearly communicate it and drive follow-through.
 - Codify and share best practices across the engineering team.
@@ -63,11 +63,10 @@ Staff Engineer
 - Monitor project outcomes to learn from mistakes and replicate successes.
 - Look for ways to reduce distractions, interruptions, and unplanned work for yourself and your team.
 - Monitor the performance of engineers on your team, and partner with other managers & leads to help them improve.
-- Serve as a mentor to other senior engineers.
 - Identify knowledge gaps within the team and lead trainings to address them.
 - Advocate for others to step into leadership roles, and support them when they do.
+- Serve as a mentor to other senior engineers.
 - Develop and regularly refine technical assessments (coding exercises, interview questions, etc.) for potential hires.
-- Contribute positively to the company's public reputation.
 
 [Example Behaviors](/README.md#example-behaviors):
 - Led a workshop on Git after noticing that some engineers weren't using it to its fullest

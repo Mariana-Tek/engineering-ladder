@@ -14,7 +14,7 @@ Engineer II
 
 ### [Technical Skills](/README.md#technical-skills)
 
-- Complete moderately-complex engineering tasks with high-level guidance from more senior developers.
+- Complete engineering tasks of moderate complexity with high-level guidance from more senior developers.
 - Own small-to-medium features through the entire development lifecycle: technical design, implementation, testing, release, and maintenance.
 - Write scalable, performant code that leverages asynchrony, caching, database indexes, prefetching & sideloading, etc.
 - Provide reliable delivery estimates for your work. Be accountable for deadlines.
@@ -43,6 +43,7 @@ Engineer II
 ---
 ### [Communication](/README.md#communication)
 
+- Proactively raise issues during sprint retrospective.
 - Give clear, actionable feedback to your peers and manager.
 - Reduce the need for re-work by asking for clarification and confirming assumptions before starting an unclear task.
 - Provide thoughtful, constructive feedback in code reviews on your peers' PRs.

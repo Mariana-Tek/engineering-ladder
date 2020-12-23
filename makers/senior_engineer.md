@@ -40,11 +40,13 @@ Senior Engineer
 ---
 ### [Communication](/README.md#communication)
 
-- Foster inclusive discussions and decision-making by mindfully inviting others to participate.
-- Avoid silos by actively sharing information (around best practices, technical approaches, etc.) with your team.
+- Facilitate productive meetings with clear outcomes.
+- Encourage inclusive discussions and decision-making by mindfully inviting participation from less-heard voices.
+- Serve as a team representative in cross-team meetings and initiatives.
+- Solicit buy-in when making technical decisions.
+- Avoid silos by actively sharing information with your team about best practices, technical approaches, etc.
 - Communicate technical concepts clearly, regardless of the technical familiarity of your audience.
 - Articulate and advocate for the product team's goals to engineers on your team.
-- Build buy-in for technical decisions.
 
 [Example Behaviors](/README.md#example-behaviors):
 - Gave a presentation about DataDog to other developers at a guild meeting
@@ -59,8 +61,7 @@ Senior Engineer
 - Nurture an empathetic, no-blame culture on your team.
 - Prioritize work that unblocks your teammates.
 - Provide constructive, actionable feedback to your colleagues in an empathetic way.
-- Facilitate productive discussions with clear outcomes.
-- Suggest process improvements.
+- Suggest solutions to problems you notice with our product and processes.
 - Notice if morale is low, and work with the team to identify and address the causes.
 - Coach junior engineers via pairing and code reviews.
 - Volunteer to serve as a formal mentor for junior engineers.
@@ -69,7 +70,7 @@ Senior Engineer
 [Example Behaviors](/README.md#example-behaviors):
 - Diffused tension between two participants in retro
 - Connected tedious A/B testing project with overall company goals
-- Suggested process improvements in the aftermath of a hotfix, rather than assigning blame
+- Brainstormed process improvements in the aftermath of a hotfix, rather than assigning blame
 - Gave a presentation about Git best practices at Group Code Review
 - Implemented a new bug-tracking process
 - Suggested a new standup format

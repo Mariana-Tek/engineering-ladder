@@ -38,6 +38,7 @@ As an entry-level engineer, you're at the start of your career, often fresh out 
 - Attended an in-studio observation with a UX researcher
 - Observed a usability-testing session for a new feature
 - Volunteered to take notes during a user interview
+- Shadowed a member of the support team for half a day
 - Took a class with one of our clients to better understand the MT platform
 - Took a class with a studio that uses a competing platform
 
@@ -65,7 +66,6 @@ As an entry-level engineer, you're at the start of your career, often fresh out 
 - Review your teammates' PRs and provide constructive feedback.
 - When you're stuck on a problem, seek guidance rather than answers from other engineers.
 - Thinking critically during grooming; speak up when you notice conflicting requirements, unanswered questions, and underlying assumptions that may cause problems during implementation or release.
-- Help grow the engineering team by referring your talented friends and getting involved in the tech community.
 
 [Example Behaviors](/README.md#example-behaviors):
 - Gave a shout-out to a colleague in a team meeting
