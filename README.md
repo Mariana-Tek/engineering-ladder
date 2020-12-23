@@ -6,8 +6,9 @@
 - [Makers](#makers)
 - [Managers](#managers)
 - [Roles](#roles)
-- [Glossary](#glossary)
 - [Shared Expectations](#shared-expectations)
+- [For New Employees](#for-new-employees)
+- [Glossary](#glossary)
 - [Credit & Inspiration](#credit-where-credit-is-due)
 
 ## Introduction
@@ -54,6 +55,10 @@ These behaviors are expected of engineers at all levels:
 - Handle conflict constructively. Assume best intent.
 - Learn from failure by admitting mistakes and sharing what you learned.
 - Amplify and celebrate the contributions of your teammates.
+
+## For New Employees
+
+If you are new to the team, please don't panic while reading the expectations for engineers at your level! Our codebase is huge and complicated, and it's normal to spend 6-12 months on the team before you feel like you know the lay of the land. You will contribute code before then, of course! We do a lot of pair programming and skill-sharing during the onboarding process, and you'll start off with small, well-defined tickets to build up your confidence. Ramping up to your full capabilities will take a while -- and that's okay!
 
 ## Glossary
 
