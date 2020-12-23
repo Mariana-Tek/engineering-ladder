@@ -12,7 +12,7 @@ Senior Engineer
 
 ## Responsibilities & Expectations
 
-### Technical Skills
+### [Technical Skills](/README.md#technical-skills)
 
 - Take the lead in designing and implementing solutions to moderately-complex, loosely-scoped problems.
 - Deliver large features that touch multiple product domains, working independently or leading other engineers.
@@ -22,23 +22,23 @@ Senior Engineer
 - Suggest improvements to the team's technology and tools based on industry trends and best practices.
 - Identify tech debt before it becomes a crisis. Work with the PM and other senior engineers to prioritize it appropriately.
 
-Example behaviors:
+[Example Behaviors](/README.md#example-behaviors):
 - Took ownership of debugging, writing, and deploying a hotfix
 - Reduced the scope of a feature to meet a deadline
 - Divided a large feature into smaller tasks that could be completed in parallel
 - Refactored a module to be more efficient before adding additional functionality
 
 ---
-### Business Knowledge
+### [Business Knowledge](/README.md#business-knowledge)
 
 - Become an expert in multiple areas of the codebase or product.
 - Consider team goals, product direction, and company objectives when designing technical solutions.
 
-Example behaviors:
+[Example Behaviors](/README.md#example-behaviors):
 - TBA
 
 ---
-### Communication
+### [Communication](/README.md#communication)
 
 - Foster inclusive discussions and decision-making by mindfully inviting others to participate.
 - Avoid silos by actively sharing information (around best practices, technical approaches, etc.) with your team.
@@ -46,14 +46,14 @@ Example behaviors:
 - Articulate and advocate for the product team's goals to engineers on your team.
 - Build buy-in for technical decisions.
 
-Example behaviors:
+[Example Behaviors](/README.md#example-behaviors):
 - Gave a presentation about DataDog to other developers at a guild meeting
 - Explained a technical issue in an understandable way to a non-technical stakeholder
 - Created a diagram to document how different parts of system interact
 - Answered another engineer's question about the business value of a particular piece of work
 
 ---
-### Leadership & Teamwork
+### [Leadership & Teamwork](#leadership--teamwork)
 
 - Set and maintain high expectations for yourself and others.
 - Nurture an empathetic, no-blame culture on your team.
@@ -66,7 +66,7 @@ Example behaviors:
 - Volunteer to serve as a formal mentor for junior engineers.
 - Participate in engineering interviews and provide thoughtful feedback.
 
-Example behaviors:
+[Example Behaviors](/README.md#example-behaviors):
 - Diffused tension between two participants in retro
 - Connected tedious A/B testing project with overall company goals
 - Suggested process improvements in the aftermath of a hotfix, rather than assigning blame

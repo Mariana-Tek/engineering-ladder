@@ -14,7 +14,7 @@ Staff Engineer
 
 ## Responsibilities & Expectations
 
-### Technical Skills
+### [Technical Skills](/README.md#technical-skills)
 
 - Take the lead in designing and implementing solutions to complex, unscoped problems. 
 - Design and execute large projects based on strategic business objectives.
@@ -25,23 +25,23 @@ Staff Engineer
 - Identify and advocate for addressing areas of critical need based on the company's growth plans.
 - Evaluate new technologies and tools for the engineering team to adopt.
 
-Example behaviors:
+[Example Behaviors](/README.md#example-behaviors):
 - Worked with the PM to break a large feature initiative into smaller tickets before grooming
 - Planned and executed a major version upgrade of an important package
 - Successfully led the team-wide adoption of a new linting tool
 - Flagged a feature that posed a performance risk for a large new client and outlined a plan to refactor it
 
 ---
-### Business Knowledge
+### [Business Knowledge](/README.md#business-knowledge)
 
 - Strive to understand all technologies used by your team.
 - Consider the technical direction of the product and the engineering team when designing technical solutions.
 
-Example behaviors:
+[Example Behaviors](/README.md#example-behaviors):
 - TBA
 
 ---
-### Communication
+### [Communication](/README.md#communication)
 
 - Coordinate cross-team work to ensure new features launch smoothly and meet user needs.
 - Solicit feedback on technical proposals from engineering leaders, product owners, and other stakeholders.
@@ -50,14 +50,14 @@ Example behaviors:
 - Guide groups with disparate interests to consensus; once a decision is made, clearly communicate it and drive follow-through.
 - Codify and share best practices across the engineering team.
 
-Example behaviors:
+[Example Behaviors](/README.md#example-behaviors):
 - Consistently runs meetings with clear agendas and outcomes
 - Asked the CAPPS team for input on API work that will affect them
 - Writes timely and thoughtful answers to questions posted in Slack
 - Discussed a potential architectural decision with the CTO before committing to it
 
 ---
-### Leadership & Teamwork
+### [Leadership & Teamwork](#leadership--teamwork)
 
 - Take responsibility for the actions of your team, both good and bad.
 - Monitor project outcomes to learn from mistakes and replicate successes.
@@ -69,7 +69,7 @@ Example behaviors:
 - Develop and regularly refine technical assessments (coding exercises, interview questions, etc.) for potential hires.
 - Contribute positively to the company's public reputation.
 
-Example behaviors:
+[Example Behaviors](/README.md#example-behaviors):
 - Led a workshop on Git after noticing that some engineers weren't using it to its fullest
 - Got coffee with a potential hire to answer questions about the team
 - Identified a manual process that was slowing down multiple teams and automated it

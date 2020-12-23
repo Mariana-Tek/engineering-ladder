@@ -11,7 +11,7 @@ As an entry-level engineer, you're at the start of your career, often fresh out 
 
 ## Responsibilities & Expectations
 
-### Technical Skills
+### [Technical Skills](/README.md#technical-skills)
 
 - Complete well-defined engineering tasks of low-to-moderate complexity within a reasonable time frame, working alone or pairing with others.
 - Write code, tests, and documentation consistent with team standards.
@@ -20,21 +20,21 @@ As an entry-level engineer, you're at the start of your career, often fresh out 
 - Seek the right balance between persevering on a problem and asking for help.
 - Strive to improve your understanding of engineering principles, practices, and tools with the goal of becoming more self-sufficient.
 
-Example behaviors:
+[Example Behaviors](/README.md#example-behaviors):
 - Identified, documented, and fixed a small bug
 - Exposed a new field on an existing API endpoint
 - Paired with another developer to refactor an Ember route
 - Debugged and fixed failing tests in your PR before seeking code review
 
 ---
-### Business Knowledge
+### [Business Knowledge](/README.md#business-knowledge)
 
 - Become an expert in at least one area of the codebase or product.
 - Learn about the boutique fitness industry.
 - Familiarize yourself with our clients, customers, and the business logic that governs our application.
 - Seek to understand how your work fits into the larger picture for your team, the product roadmap, and the company as a whole.
 
-Example behaviors:
+[Example Behaviors](/README.md#example-behaviors):
 - Attended an in-studio observation with a UX researcher
 - Observed a usability-testing session for a new feature
 - Volunteered to take notes during a user interview
@@ -42,7 +42,7 @@ Example behaviors:
 - Took a class with a studio that uses a competing platform
 
 ---
-### Communication
+### [Communication](/README.md#communication)
 
 - Be mindful and empathetic in communicating with others.
 - Actively participate in team meetings.
@@ -52,7 +52,7 @@ Example behaviors:
 - Write PR descriptions that clearly explain why the change is being made, what impact it will have, and how to test it.
 - Keep documentation up to date. Fix inaccuracies and fill gaps as you find them.
 
-Example behaviors:
+[Example Behaviors](/README.md#example-behaviors):
 - Asked for help during standup
 - Posted a question in Slack about a potential blocker
 - Fixed outdated information in the README
@@ -60,7 +60,7 @@ Example behaviors:
 - Updated the troubleshooting section of the engineering wiki after solving a thorny local environment issue
 
 ---
-### Leadership & Teamwork
+### [Leadership & Teamwork](#leadership--teamwork)
 
 - Be a collaborative, helpful, and curious member of your team.
 - Treat your colleagues with empathy.
@@ -70,7 +70,7 @@ Example behaviors:
 - Thinking critically during grooming; speak up when you notice conflicting requirements, unanswered questions, and underlying assumptions that may cause problems during implementation or release.
 - Help grow the engineering team by referring your talented friends and getting involved in the tech community.
 
-Example behaviors:
+[Example Behaviors](/README.md#example-behaviors):
 - Gave a shout-out to a colleague in a team meeting
 - Flagged an edge case during grooming
 - Reached out to a teammate who seemed stressed

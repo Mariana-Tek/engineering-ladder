@@ -12,7 +12,7 @@ Engineer II
 
 ## Responsibilities & Expectations
 
-### Technical Skills
+### [Technical Skills](/README.md#technical-skills)
 
 - Complete moderately-complex engineering tasks with high-level guidance from more senior developers.
 - Own small-to-medium features through the entire development lifecycle: technical design, implementation, testing, release, and maintenance.
@@ -21,27 +21,27 @@ Engineer II
 - Aim to keep PRs small and deliver large features via multiple small, self-contained increments.
 - Improve the development experience of the team by enhancing development tools, test coverage, and code structure.
 
-Example behaviors:
+[Example Behaviors](/README.md#example-behaviors):
 - Split a medium-sized feature request into several smaller tickets
 - Used a debugger to diagnose and fix a problem
 - Investigated and fixed a Sentry error related to a new feature
 - Improved the performance of an existing API endpoint by adding prefetching
 
 ---
-### Business Knowledge
+### [Business Knowledge](/README.md#business-knowledge)
 
 - Center the needs of our clients and customers when designing, implementing, and testing features.
 - When in doubt about how a feature should function, solicit input from relevant teams: design, UX, support, etc.
 - Use your awareness of team goals and company objectives to prioritize and shape your work.
 
-Example behaviors:
+[Example Behaviors](/README.md#example-behaviors):
 - Voiced concern about a bug that affects a large number of users
 - Demoed a new feature at Product Review and explained how it helps meet business needs
 - Asked questions of the PM to better understand the business value of a particular feature
 - Attended a user-testing session for a new feature
 
 ---
-### Communication
+### [Communication](/README.md#communication)
 
 - Give clear, actionable feedback to your peers and manager.
 - Learn from failure by admitting mistakes and sharing what you learned.
@@ -49,13 +49,13 @@ Example behaviors:
 - Provide thoughtful, constructive feedback in code reviews on your peers' PRs.
 - Amplify and celebrate the contributions of your teammates.
 
-Example behaviors:
+[Example Behaviors](/README.md#example-behaviors):
 - Gave a brief post-mortem of a bug as a standup after-topic
 - Emailed positive feedback to a colleague's manager after the colleague was especially helpful
 - Reached out to a teammate to ask a clarifying question about a change they requested on your PR
 
 ---
-### Leadership & Teamwork
+### [Leadership & Teamwork](#leadership--teamwork)
 
 - Build strong, collaborative relationships with people on and off your team.
 - Occasionally take the lead in product team processes.
@@ -63,7 +63,7 @@ Example behaviors:
 - Volunteer to help answer questions and debug problems with your colleagues.
 - Handle conflict and change with maturity. Assume best intent in others.
 
-Example behaviors:
+[Example Behaviors](/README.md#example-behaviors):
 - Served as the onboarding buddy for a new hire
 - Paired on a feature with a more junior colleague
 - Facilitated a team retrospective
