@@ -45,13 +45,20 @@ Neither track is superior to the other, and engineers will often switch between 
 
 ## Glossary
 
-| Term                                                    | Definition  |
-| ------------------------------------------------------- | ----------- |
-| <a name="technical-skills"></a>Technical Skills         | TBA         |
-| <a name="business-knowledge"></a>Business Knowledge     | TBA         |
-| <a name="communication"></a>Communication               | TBA         |
-| <a name="leadership-teamwork"></a>Leadership & Teamwork | TBA         |
-| <a name="example-behaviors"></a>Example Behaviors       | These are **not requirements**. The "Example behaviors" section is meant to elucidate the high-level expectations outlined in the section above. It is **not a checklist** that you must complete to move up the ladder.  Think of them like the code snippets included in software documentation, which illustrate how a particular package or method or syntax *can* be used in different scenarios, not how it *must* be used. |
+### Technical Skills
+TBA
+
+### Business Knowledge
+TBA
+
+### Communication
+TBA
+
+### Leadership & Teamwork
+TBA
+
+### Example Behaviors
+These are **not requirements**. The "Example behaviors" section is meant to elucidate the high-level expectations outlined in the section above. It is **not a checklist** that you must complete to move up the ladder.  Think of them like the code snippets included in software documentation, which illustrate how a particular package or method or syntax *can* be used in different scenarios, not how it *must* be used.
 
 ## Credit & Inspiration
 
