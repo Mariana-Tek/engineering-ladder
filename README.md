@@ -15,13 +15,13 @@
 
 The Mariana Tek Engineering Ladder defines the responsibilities and expectations of people working at various levels within the engineering team. It exists as a rubric for hiring, a guide for engineers seeking excellence and advancement, and a framework for managers to evaluate performance and identify candidates for promotion.
 
-Like many engineering teams, we outline two paths for career advancement: the management track and the technical track. Engineers pursuing the management track ("Managers") are interested in managing people and teams. Engineers pursuing the technical track ("Makers") are interested in honing their technical expertise and shaping the technical direction of the company.
+Like many engineering teams, we outline two paths for career advancement: the management track and the technical track. Engineers pursuing the management track (["Managers"](#managers)) are interested in managing people and teams. Engineers pursuing the technical track (["Makers"](#makers)) are interested in honing their technical expertise and shaping the technical direction of the company.
 
 Framed another way by the engineering team at [Chartbeat](https://engineering.chartbeat.com/2015/06/05/engineering-ladders/), the difference between Makers and Managers is how they answer this question:
 
 > “Do I want to build bigger and better systems, or do I want to manage bigger and better teams?”
 
-Every engineer starts their career as a maker. As you work your way from Engineer I to Engineer II to Senior Engineer, you are primarily focused on expanding your technical knowledge and mastering the skills required of a professional software engineer. When you're ready to move beyond Senior Engineer, you have the opportunity to switch to the management track.
+Every engineer starts their career as a maker. As you work your way from [Engineer I](makers/engineer_i.md) to [Engineer II](makers/engineer_ii.md) to [Senior Engineer](makers/senior_engineer.md), you are primarily focused on expanding your technical knowledge and mastering the skills required of a professional software engineer. When you're ready to move beyond Senior Engineer, you have the opportunity to switch to the management track.
 
 Neither track is superior to the other, and engineers will often switch between them as they move through their careers.
 
@@ -75,7 +75,12 @@ TBA
 TBA
 
 ### Example Behaviors
-These are **not requirements**. The "Example behaviors" section is meant to elucidate the high-level expectations outlined in the section above. It is **not a checklist** that you must complete to move up the ladder.  Think of them like the code snippets included in software documentation, which illustrate how a particular package or method or syntax *can* be used in different scenarios, not how it *must* be used.
+
+The "Example Behaviors" section is meant to elucidate the high-level expectations outlined for each position. It is **not a checklist** that you must complete to move up the ladder. 
+
+Think of it like the code snippets included in software documentation to illustrate how a particular package or method or syntax *can* be used in different scenarios, not how it *must* be used. The intention is to inspire and clarify, not mandate.
+
+Again, just to be super clear: **"Example Behaviors" are not requirements.**
 
 ## Credit & Inspiration
 
