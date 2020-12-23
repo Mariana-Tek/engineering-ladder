@@ -1,5 +1,14 @@
-Mariana Tek Engineering Ladder
-==============================
+# Mariana Tek Engineering Ladder
+
+## Table of Contents
+
+- [Introduction](#foo)
+- [Makers](#makers)
+- [Managers](#managers)
+- [Roles](#roles)
+- [Credit & Inspiration](#credit-where-credit-is-due)
+
+## Introduction
 
 The Mariana Tek Engineering Ladder defines the responsibilities and expectations of people working at various levels within the engineering team. It exists as a rubric for hiring, a guide for engineers seeking excellence and advancement, and a framework for managers to evaluate performance and identify candidates for promotion.
 
@@ -13,8 +22,7 @@ Every engineer starts their career as a maker. As you work your way from Enginee
 
 Neither track is superior to the other, and engineers will often switch between them as they move through their careers.
 
----
-### Makers
+## Makers
 
 * [Engineer I](makers/engineer_i.md)
 * [Engineer II](makers/engineer_ii.md)
@@ -23,21 +31,18 @@ Neither track is superior to the other, and engineers will often switch between 
 * [Principal Engineer](makers/principal_engineer.md)
 * [CTO](makers/cto.md)
 
----
-### Managers
+## Managers
 
 * [Engineering Manager](managers/engineering_manager.md)
 * [Director, Engineering](managers/director_engineering.md)
 * [VP, Engineering](managers/vp_engineering.md)
 
----
-### Roles
+## Roles
 
 * [Technical Lead](roles/technical_lead.md)
 * [Directly Responsible Individual (DRI)](roles/directly_responsible_individual.md)
 
----
-### Credit Where Credit Is Due
+## Credit & Inspiration
 
 Our engineering ladder is heavily inspired by (and lightly plagiarized from) ladders shared by the following companies:
 
