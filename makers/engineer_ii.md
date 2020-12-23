@@ -44,10 +44,8 @@ Engineer II
 ### [Communication](/README.md#communication)
 
 - Give clear, actionable feedback to your peers and manager.
-- Learn from failure by admitting mistakes and sharing what you learned.
 - Reduce the need for re-work by asking for clarification and confirming assumptions before starting an unclear task.
 - Provide thoughtful, constructive feedback in code reviews on your peers' PRs.
-- Amplify and celebrate the contributions of your teammates.
 
 [Example Behaviors](/README.md#example-behaviors):
 - Gave a brief post-mortem of a bug as a standup after-topic
@@ -61,7 +59,6 @@ Engineer II
 - Occasionally take the lead in product team processes.
 - Support and mentor peers in an ad-hoc way.
 - Volunteer to help answer questions and debug problems with your colleagues.
-- Handle conflict and change with maturity. Assume best intent in others.
 
 [Example Behaviors](/README.md#example-behaviors):
 - Served as the onboarding buddy for a new hire

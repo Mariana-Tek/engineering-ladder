@@ -44,7 +44,6 @@ As an entry-level engineer, you're at the start of your career, often fresh out 
 ---
 ### [Communication](/README.md#communication)
 
-- Be mindful and empathetic in communicating with others.
 - Actively participate in team meetings.
 - Provide regular status updates to your team about the state of your work, as well as any roadblocks.
 - Write readable, well-documented code with detailed commit messages.
@@ -63,8 +62,6 @@ As an entry-level engineer, you're at the start of your career, often fresh out 
 ### [Leadership & Teamwork](#leadership--teamwork)
 
 - Be a collaborative, helpful, and curious member of your team.
-- Treat your colleagues with empathy.
-- Seek feedback proactively. Accept it graciously.
 - Review your teammates' PRs and provide constructive feedback.
 - When you're stuck on a problem, seek guidance rather than answers from other engineers.
 - Thinking critically during grooming; speak up when you notice conflicting requirements, unanswered questions, and underlying assumptions that may cause problems during implementation or release.

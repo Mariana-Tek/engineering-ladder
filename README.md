@@ -7,6 +7,7 @@
 - [Managers](#managers)
 - [Roles](#roles)
 - [Glossary](#glossary)
+- [Shared Expectations](#shared-expectations)
 - [Credit & Inspiration](#credit-where-credit-is-due)
 
 ## Introduction
@@ -42,6 +43,17 @@ Neither track is superior to the other, and engineers will often switch between 
 
 * [Technical Lead](roles/technical_lead.md)
 * [Directly Responsible Individual (DRI)](roles/directly_responsible_individual.md)
+
+## Shared Expectations
+
+These behaviors are expected of engineers at all levels:
+
+- Treat everyone with empathy and respect.
+- Seek feedback proactively. Accept it graciously.
+- Be mindful and empathetic in communicating with others.
+- Handle conflict constructively. Assume best intent.
+- Learn from failure by admitting mistakes and sharing what you learned.
+- Amplify and celebrate the contributions of your teammates.
 
 ## Glossary
 
