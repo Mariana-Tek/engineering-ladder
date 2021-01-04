@@ -12,7 +12,7 @@ Engineer II
 
 ## Responsibilities & Expectations
 
-### [Technical Skills](/README.md#technical-skills)
+### Technical Skills
 
 - Complete engineering tasks of moderate complexity with high-level guidance from more senior developers.
 - Own small-to-medium features through the entire development lifecycle: technical design, implementation, testing, release, and maintenance.
@@ -28,7 +28,7 @@ Engineer II
 - Improved the performance of an existing API endpoint by adding prefetching
 
 ---
-### [Business Knowledge](/README.md#business-knowledge)
+### Business Knowledge
 
 - Center the needs of our clients and customers when designing, implementing, and testing features.
 - When in doubt about how a feature should function, solicit input from relevant teams: design, UX, support, etc.
@@ -41,7 +41,7 @@ Engineer II
 - Attended a user-testing session for a new feature
 
 ---
-### [Communication](/README.md#communication)
+### Communication
 
 - Proactively raise issues during sprint retrospective.
 - Give clear, actionable feedback to your peers and manager.
@@ -54,7 +54,7 @@ Engineer II
 - Reached out to a teammate to ask a clarifying question about a change they requested on your PR
 
 ---
-### [Leadership & Teamwork](#leadership--teamwork)
+### Leadership & Teamwork
 
 - Build strong, collaborative relationships with people on and off your team.
 - Occasionally take the lead in product team processes.

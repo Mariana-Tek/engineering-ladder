@@ -12,7 +12,7 @@ Senior Engineer
 
 ## Responsibilities & Expectations
 
-### [Technical Skills](/README.md#technical-skills)
+### Technical Skills
 
 - Take the lead in designing and implementing solutions to moderately-complex, loosely-scoped problems.
 - Deliver large features that touch multiple product domains, working independently or leading other engineers.
@@ -29,24 +29,21 @@ Senior Engineer
 - Refactored a module to be more efficient before adding additional functionality
 
 ---
-### [Business Knowledge](/README.md#business-knowledge)
+### Business Knowledge
 
 - Become an expert in multiple areas of the codebase or product.
 - Consider team goals, product direction, and company objectives when designing technical solutions.
 
-[Example Behaviors](/README.md#example-behaviors):
-- TBA
-
 ---
-### [Communication](/README.md#communication)
+### Communication
 
 - Facilitate productive meetings with clear outcomes.
-- Encourage inclusive discussions and decision-making by mindfully inviting participation from less-heard voices.
+- Encourage inclusive discussions and decision-making by mindfully inviting less-heard voices to participate.
 - Serve as a team representative in cross-team meetings and initiatives.
 - Solicit buy-in when making technical decisions.
 - Avoid silos by actively sharing information with your team about best practices, technical approaches, etc.
-- Communicate technical concepts clearly, regardless of the technical familiarity of your audience.
-- Articulate and advocate for the product team's goals to engineers on your team.
+- Communicate technical concepts clearly, tailored to the technical familiarity of your audience.
+- Articulate and advocate for product team goals to engineers on your team.
 
 [Example Behaviors](/README.md#example-behaviors):
 - Gave a presentation about DataDog to other developers at a guild meeting
@@ -55,7 +52,7 @@ Senior Engineer
 - Answered another engineer's question about the business value of a particular piece of work
 
 ---
-### [Leadership & Teamwork](#leadership--teamwork)
+### Leadership & Teamwork
 
 - Set and maintain high expectations for yourself and others.
 - Nurture an empathetic, no-blame culture on your team.
@@ -63,8 +60,8 @@ Senior Engineer
 - Provide constructive, actionable feedback to your colleagues in an empathetic way.
 - Suggest solutions to problems you notice with our product and processes.
 - Notice if morale is low, and work with the team to identify and address the causes.
-- Coach junior engineers via pairing and code reviews.
-- Volunteer to serve as a formal mentor for junior engineers.
+- Help other engineers learn and grow on an ad hoc basis via pairing and code reviews.
+- Serve as a formal mentor to engineers who are earlier in their careers.
 - Participate in engineering interviews and provide thoughtful feedback.
 
 [Example Behaviors](/README.md#example-behaviors):

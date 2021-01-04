@@ -14,7 +14,7 @@ Staff Engineer
 
 ## Responsibilities & Expectations
 
-### [Technical Skills](/README.md#technical-skills)
+### Technical Skills
 
 - Take the lead in designing and implementing solutions to complex, unscoped problems. 
 - Design and execute large projects based on strategic business objectives.
@@ -32,16 +32,13 @@ Staff Engineer
 - Flagged a feature that posed a performance risk for a large new client and outlined a plan to refactor it
 
 ---
-### [Business Knowledge](/README.md#business-knowledge)
+### Business Knowledge
 
 - Strive to understand all technologies used by your team.
 - Work with the product team to understand how engineering efforts can support big-picture product goals.
 
-[Example Behaviors](/README.md#example-behaviors):
-- TBA
-
 ---
-### [Communication](/README.md#communication)
+### Communication
 
 - Coordinate cross-team work to ensure new features launch smoothly and meet user needs.
 - Solicit feedback on technical proposals from engineering leaders, product owners, and other stakeholders.
@@ -57,7 +54,7 @@ Staff Engineer
 - Discussed a potential architectural decision with the CTO before committing to it
 
 ---
-### [Leadership & Teamwork](#leadership--teamwork)
+### Leadership & Teamwork
 
 - Take responsibility for the actions of your team, both good and bad.
 - Monitor project outcomes to learn from mistakes and replicate successes.

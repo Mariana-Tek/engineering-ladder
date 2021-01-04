@@ -11,7 +11,7 @@ As an entry-level engineer, you're at the start of your career, often fresh out 
 
 ## Responsibilities & Expectations
 
-### [Technical Skills](/README.md#technical-skills)
+### Technical Skills
 
 - Complete well-defined engineering tasks of low-to-moderate complexity within a reasonable time frame, working alone or pairing with others.
 - Write code, tests, and documentation consistent with team standards.
@@ -23,11 +23,12 @@ As an entry-level engineer, you're at the start of your career, often fresh out 
 [Example Behaviors](/README.md#example-behaviors):
 - Identified, documented, and fixed a small bug
 - Exposed a new field on an existing API endpoint
+- Added a new view to an existing scrolling view in the iOS app
 - Paired with another developer to refactor an Ember route
-- Debugged and fixed failing tests in your PR before seeking code review
+- Debugged and fixed failing tests in your PR before requesting code review
 
 ---
-### [Business Knowledge](/README.md#business-knowledge)
+### Business Knowledge
 
 - Become an expert in at least one area of the codebase or product.
 - Learn about the boutique fitness industry.
@@ -43,7 +44,7 @@ As an entry-level engineer, you're at the start of your career, often fresh out 
 - Took a class with a studio that uses a competing platform
 
 ---
-### [Communication](/README.md#communication)
+### Communication
 
 - Actively participate in team meetings.
 - Provide regular status updates to your team about the state of your work, as well as any roadblocks.
@@ -60,7 +61,7 @@ As an entry-level engineer, you're at the start of your career, often fresh out 
 - Updated the troubleshooting section of the engineering wiki after solving a thorny local environment issue
 
 ---
-### [Leadership & Teamwork](#leadership--teamwork)
+### Leadership & Teamwork
 
 - Be a collaborative, helpful, and curious member of your team.
 - Review your teammates' PRs and provide constructive feedback.

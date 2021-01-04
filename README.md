@@ -2,7 +2,7 @@
 
 ## Table of Contents
 
-- [Introduction](#foo)
+- [Introduction](#introduction)
 - [Makers](#makers)
 - [Managers](#managers)
 - [Roles](#roles)
@@ -61,18 +61,6 @@ These behaviors are expected of engineers at all levels:
 - Amplify and celebrate the contributions of your teammates.
 
 ## Glossary
-
-### Technical Skills
-TBA
-
-### Business Knowledge
-TBA
-
-### Communication
-TBA
-
-### Leadership & Teamwork
-TBA
 
 ### Example Behaviors
 
