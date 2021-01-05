@@ -9,7 +9,7 @@
 - [For New Employees](#for-new-employees)
 - [Shared Expectations](#shared-expectations)
 - [Glossary](#glossary)
-- [Credit & Inspiration](#credit-where-credit-is-due)
+- [Credit & Inspiration](#credit--inspiration)
 
 ## Introduction
 

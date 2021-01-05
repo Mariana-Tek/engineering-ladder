@@ -3,7 +3,7 @@ Staff Engineer
 
 ## Qualifications
 
-- Successfully performed the role of Senior Engineer at Mariana Tek or equivalent role elsewhere.
+- Successfully performed the role of [Senior Engineer](makers/senior_engineer.md) at Mariana Tek or equivalent role elsewhere.
 - Highly knowledgeable about our product, codebase, and tech stack.
 - Consistently delivers high-quality projects with cross-team impact.
 - Steps up to take leadership of a project or team when needed.
@@ -34,8 +34,11 @@ Staff Engineer
 ---
 ### Business Knowledge
 
-- Strive to understand all technologies used by your team.
 - Work with the product team to understand how engineering efforts can support big-picture product goals.
+- Strive to understand all technologies used by your team.
+
+[Example Behaviors](/README.md#example-behaviors):
+- Meets regularly with the PM to discuss and shape the product roadmap
 
 ---
 ### Communication

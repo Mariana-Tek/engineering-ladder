@@ -30,10 +30,11 @@ As an entry-level engineer, you're at the start of your career, often fresh out 
 ---
 ### Business Knowledge
 
-- Become an expert in at least one area of the codebase or product.
+- Develop expertise in at least one area of the codebase.
+- Become familiar with the features and business value of the product(s) managed by your team.
 - Learn about the boutique fitness industry.
 - Familiarize yourself with our clients, customers, and the business logic that governs our application.
-- Seek to understand how your work fits into the larger picture for your team, the product roadmap, and the company as a whole.
+- Seek to understand the strategic goals of your team, the product team, and the company as a whole.
 
 [Example Behaviors](/README.md#example-behaviors):
 - Attended an in-studio observation with a UX researcher

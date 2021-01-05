@@ -3,7 +3,7 @@ Senior Engineer
 
 ## Qualifications
 
-- Successfully performed the role of Engineer II at Mariana Tek or equivalent role elsewhere.
+- Successfully performed the role of [Engineer II](makers/engineer_ii.md) at Mariana Tek or equivalent role elsewhere.
 - Succeeded as an engineer when assigned projects of increasing complexity over time across multiple product domains.
 - Consistent track record of writing high-quality code with very little oversight beyond high-level direction.
 - Demonstrated ability to learn from mistakes.
@@ -31,8 +31,13 @@ Senior Engineer
 ---
 ### Business Knowledge
 
-- Become an expert in multiple areas of the codebase or product.
-- Consider team goals, product direction, and company objectives when designing technical solutions.
+- Consider broader team goals, product direction, and company strategy when designing technical solutions.
+- Seek to understand multiple levels of the tech stack.
+
+[Example Behaviors](/README.md#example-behaviors):
+- Paired with a developer from another team to better understand an unfamiliar part of the tech stack
+- Attended a guild meeting to learn about an emerging technology outside their area of expertise
+- Outlined an iterative path for implementing a new feature, starting with an MVP to meet urgent business needs, followed by iterations to advance larger product goals
 
 ---
 ### Communication
@@ -42,7 +47,7 @@ Senior Engineer
 - Serve as a team representative in cross-team meetings and initiatives.
 - Solicit buy-in when making technical decisions.
 - Avoid silos by actively sharing information with your team about best practices, technical approaches, etc.
-- Communicate technical concepts clearly, tailored to the technical familiarity of your audience.
+- Communicate technical concepts clearly, tailoring explanations to the technical familiarity of the audience.
 - Articulate and advocate for product team goals to engineers on your team.
 
 [Example Behaviors](/README.md#example-behaviors):
