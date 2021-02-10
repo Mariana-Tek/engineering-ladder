@@ -1,17 +1,19 @@
 Engineering Manager
 ===================
 
-## The Engineering Manager is accountable for building high performing teams.
+## The Engineering Manager is accountable for building high performing teams
 
 ### Accountabilities
 
-* *If the team has high cycle time, it’s on the EM*
-* *If the team isn’t continuously improving their process to deliver more effectively & reduce bottlenecks, it’s on the EM*
-* *If the team is not communicating well or working well together it’s on the EM.*
-* *If the engineers who report to them don’t have the right skillset to tackle their problems it’s on the EM*
-* *If the engineers who report to them aren’t focussed on their work it’s on the EM*
-* *If engineers that report to them have performance problems that impact teams being able to deliver, it’s on the EM*
-* *If engineers that report to them don’t have personal goals & career development plans that line up with team goals, it’s on the EM*
+It's the responsibility of the EM to ensure all of the following for their teams and direct reports:
+
+* *The team has low cycle time*
+* *The team is continuously improving their process to deliver more effectively and reduce bottlenecks*
+* *The team is communicating and working together well*
+* *Each engineer has the right skillset to tackle their work*
+* *Each engineer is focused on their work*
+* *Engineer performance problems are addressed in a way that allows the team to deliver on its goals*
+* *Each engineer has a career development plan and set of personal goals*
 
 ### Responsibilities
 
@@ -27,28 +29,28 @@ Engineering Manager
 
 #### Meetings
 
-* Guide effectiveness of team meetings. Ensure agendas/purpose are clear & actions captured. 
+* Guide effectiveness of team meetings.
+* Ensure agendas/purpose are clear & actions captured.
 
 #### Determine team/team makeup & hiring needs
 
 * Ensure team has the people and skill sets needed to achieve their goals
-* Recruit for the team 
+* Recruit for the team
    * Source engineers
    * Motivate engineers to speak, do presentations, write blog posts, and contribute to open source projects (and do so oneself!)
-   * Participate in creating interview practice for Mariana Tek engineering
-   * Update interview loops & training engineers to use them for hiring 
+   * Update interview loops & training engineers to use them for hiring
    * Work with recruiting to ensure the loops run smoothly
    * Make the final hiring decision
-   * Create the engineer’s onboarding plan and work with TL and others to ensure engineers are successfully onboarded 
+   * Create the engineer’s onboarding plan and work with TL and others to ensure engineers are successfully onboarded
 
 #### Management
 
 * Ensure engineers understand how the work they are doing ladders up to OKRs & wider company goals
 * Ensure engineers have the skills needed to support their team
-* Ensure engineers are focussed on the sprint & stories at hand
+* Ensure engineers are focused on the sprint & stories at hand
 * Deal with team interpersonal issues
-* Deal with performance issues 
-* Coach engineers career paths and personal growth in a way that lines up with teams goals
+* Deal with performance issues
+* Coach engineers career paths and personal growth
    * Coach engineers to set personal goals & assist in defining steps to achieve them
    * Coach engineers to set goals that push them out of their comfort zone and promote growth
    * Be a sponsor for engineers so they have access to growth opportunities they wouldn’t otherwise have on their own
