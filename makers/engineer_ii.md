@@ -3,7 +3,7 @@ Engineer II
 
 ## Qualifications
 
-- Successfully performed the role of [Engineer I](makers/engineer_i.md) at Mariana Tek or equivalent role elsewhere.
+- Successfully performed the role of [Engineer I](engineer_i.md) at Mariana Tek or equivalent role elsewhere.
 - Solid track record of writing clean, functional code with periodic guidance from other engineers.
 - Increasing proficiency with engineering best practices like testing, source control, and agile project development.
 - Strong understanding of core engineering concepts, including (but not limited to) scalability, performance, caching, abstraction, relational databases, etc.
