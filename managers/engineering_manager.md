@@ -31,7 +31,7 @@ It's the responsibility of the EM to ensure all of the following for their teams
 * Foster continuous improvement mindset amongst team
 * Challenge team to identify bottlenecks & ways of speeding up delivery
 * Ensure engineers are focused on the sprint & stories at hand
-* Ensure engineers understand how the work they are doing impacts objects and key results (OKRs) & wider company goals
+* Ensure engineers understand how the work they are doing impacts objects and key results (OKRs) & company priorities
 
 #### Meetings
 
