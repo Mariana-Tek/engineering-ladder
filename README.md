@@ -62,6 +62,14 @@ These behaviors are expected of engineers at all levels:
 
 ## Glossary
 
+### Qualifications
+This section is meant to summarize what it looks like for an engineer to meet and exceed the responsibilities and expectations of the previous ladder entry. We want to emphasize that this
+is **not a checklist**.
+
+
+### Responsibilities & Expectations
+This section is meant to a reflection of aspirational ideals - tasks and challenges to grow into.
+
 ### Example Behaviors
 
 The "Example Behaviors" section is meant to elucidate the high-level expectations outlined for each position. It is **not a checklist** that you must complete to move up the ladder. 
