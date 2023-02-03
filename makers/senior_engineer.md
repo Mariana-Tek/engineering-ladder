@@ -3,7 +3,7 @@ Senior Engineer
 
 ## Qualifications
 
-- Successfully performed the role of [Engineer II](makers/engineer_ii.md) at Mariana Tek or equivalent role elsewhere.
+- Successfully performed the role of [Engineer II](engineer_ii.md) at Mariana Tek or equivalent role elsewhere.
 - Succeeded as an engineer when assigned projects of increasing complexity over time across multiple product domains.
 - Consistent track record of writing high-quality code with very little oversight beyond high-level direction.
 - Demonstrated ability to learn from mistakes.
